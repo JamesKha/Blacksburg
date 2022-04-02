@@ -1,4 +1,4 @@
-renderData
-images
-workspace.mel
+renderData/
+images/
+*.mel
 *.mayaSwatches
